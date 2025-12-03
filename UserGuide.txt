@@ -1,0 +1,33 @@
+User Guide:
+- Make sure setup instructions have been followed.
+- Be reasonable with actions for the AI, it will be confused if you give it actions it can't understand or apply.
+- Stay appropriate, the LLM has guidelines it must follow and breaking those guidelines will disrupt the gaming experience.
+- Keep actions descriptive yet intentional. This will help the LLM make more accurate and coherent responses.
+- Download the world file
+- Choose a character
+- Load the world
+- Type "start game"
+- Begin playing!
+
+Examples: 
+AI Response: You are Kyrion Frostbane, an Ice Elf Mine Supervisor in the heart of Crystalline Cerebria's Frostspire. Towering Crystal Spires illuminate the icy 
+landscape around you as you stand atop the highest peak, overseeing the Frostbane mines - the lifeblood of this frosty metropolis. Your laser gun and a modest 
+stash of credits are your only companions in this harsh yet bustling world. The fate of Frostspire rests on your unwavering resolve and keen eye for danger. 
+Will you lead your people to prosperity or succumb to the challenges that lie ahead?
+Health: 100
+Inventory: laser gun (x1), credits (x100)
+
+A good response may be "speak to a miner near the mine" or "explore the area", as those are either easy to understand and put into action, or relevant to the situation.
+A bad response might be "pick up 99 laser guns and lose 230 health" or "Are you real?" as this falls out of the scope of the game, or asks the agent to do a ridiculous action.
+
+AI Response: As you descend from the peak, a huddle of ice elves huddles around a warm fire. Their eyes widen at your approach, sensing the danger that clings to you like 
+frost. One of them, an elder with a long white beard and piercing blue eyes, steps forward and addresses you in a hushed voice.
+"Great Frostbane," he says, his breath misting in the cold air, "the mine has been plagued by strange occurrences. 
+Creatures from the depths have surfaced, and our miners are in grave peril."
+Health: 100
+Inventory: laser gun (x1), credits (x100)
+
+✨ Gained: mine key (x1)
+Inventory: laser gun (x1), credits (x100), mine key (x1)
+
+A good response here would relate to invstigating the mine, asking more questions or doing any other basic task the AI would understand.
