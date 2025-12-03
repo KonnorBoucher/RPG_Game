@@ -1,0 +1,16 @@
+Prompt Design Rationale:
+
+Narrative AI: The focus on this prompt design was to guide the game in a way that was both fun and immersive for the player. Focus had to be placed on the creativity
+needed for the story immersion. A focus also had to be placed on danger on conflict, as those were things that would drive decisions for the player. Any other prompting
+decisions was so that the AI didn't stray off track.
+
+Inventory System and Health System: These 2 will be put together as they are very similar. The focus on these prompts was much different because they had to be accurate and
+not creative. Any prompting decisions made here was to ensure accuracy within a broad set of use cases. and then to handle edge cases that may give the model problems.
+
+Key Design Decisions:
+  - For ease of use, health potions fill hp to max
+     This allows for little regulation on how often hp potions are acquired, while still making them feel incredibly valuable
+  - Enemies do a very varied, yet possibly large amount of damage
+      As a player, you must mitigate risk, as you can be killed in 2 hits periodically. This makes the world feel stronger, and scarier
+  - Death is permanent
+      This pushes players to try many different adventures and experiences, instead of focusing on 1. If a leveling system/progression was added, this would be changed.
