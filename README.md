@@ -1,8 +1,12 @@
 # Setup
 Imstall Anaconda
+
 Install Jupyter Notebook (if not included with Anaconda)
+
 Create a virtual environment using conda
+
   Python 3.11
+  
   Pacakges needed:
   Core LangChain
     langchain==0.2.16
