@@ -1,0 +1,6 @@
+From Class Notes:
+
+HCG.ipynb,
+basic_game.ipynb,
+game_mechanics_example.ipynb,
+lecture notes
