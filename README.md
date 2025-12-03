@@ -9,12 +9,12 @@ Create a virtual environment using conda
   
   Pacakges needed:
   
-  Core LangChain
+  Core LangChain:
     langchain==0.2.16
     langchain-community==0.2.16
     langchain-core==0.2.38
 
-  Web Interface
+  Web Interface:
     gradio==5.49.1
 
   Ensure that Ollama is running and the mistral model has been pulled!
