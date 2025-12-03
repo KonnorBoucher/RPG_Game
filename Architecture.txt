@@ -1,0 +1,11 @@
+Architecture Explanation:
+The program contains 3 separate AI agents all working towards one goal: Make a coherent and fun game. Each AI has its own job.
+  Game master AI: This AI creates the story and narrative that drive all decisions a player makes throughout a playthrough. It is the AI that interprets the actions of the player and integrates them into the story.
+  Inventory: A second AI agent takes the prompt from the game master, along with the chat history, and analyzes it for inventory gains and losses. Using its own system prompt, it can follow separate rules and restrictions for itself.
+  Health: A third agent, very similar to the Inventory agent, but focuses on health and death instead.
+
+Together, these 3 AIs will update the GAME_STATE, and work with each other to create a coherent narrative. The agents are able to influence each other.
+Each AI creates its own response prompt, and all of these response prompts are added to a final response prompt that the game utilizes for the player.
+The player may only see the formatted response from the AI, however behind the scenes there is a significant chunk that the player will never see.
+
+Overtime, these final responses are added to a full_prompt, which serves as a history for the AIs as well. 
