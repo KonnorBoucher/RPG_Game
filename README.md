@@ -50,22 +50,22 @@ Note: VSCode can run this as well, I'd reccomend!!
 
 ## Examples!!
 Starting Screen:
-![Example PNG](Example_Screenshots/start)
+![Example PNG](Example_Screenshots/start.png)
 
 First we start the game. Easy enough.
-![Example PNG](Example_Screenshots/chat1)
+![Example PNG](Example_Screenshots/chat1.png)
 
 Let's go on an adventure!
-![Example PNG](Example_Screenshots/chat2)
+![Example PNG](Example_Screenshots/chat2.png)
 
 I crave for battle, let's head toward danger!!
-![Example PNG](Example_Screenshots/chat3)
+![Example PNG](Example_Screenshots/chat3.png)
 
 This is what we came for, let's fight the king!
-![Example PNG](Example_Screenshots/chat4)
+![Example PNG](Example_Screenshots/chat4.png)
 
 Notice how we now lost 50 health here, our health system is tracking, as this is the first time we have fought. Let's celebrate our fight!
-![Example PNG](Example_Screenshots/chat5)
+![Example PNG](Example_Screenshots/chat5.png)
 
 Notice how our health is now recovered back to 100! We used and health potion, and that usage was properly tracked in the inverntory system!
 
