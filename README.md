@@ -12,7 +12,7 @@ The LLM first needs to create a world, which is stored in a json file. It genera
 
 ## Skills Demonstrated
 - Prompt Engineering
-- LLM organization with LangChain
+- LLM orchastration with LangChain
 - Multi-Agent Design
 - Local LLM Deployment via Ollama
 - Interactive UI design via Gradio
