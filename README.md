@@ -11,7 +11,13 @@ The LLM first needs to create a world, which is stored in a json file. It genera
 - Persistant state and memory
 
 ## Skills Demonstrated
-- 
+- Prompt Engineering
+- LLM organization with LangChain
+- Multi-Agent Design
+- Local LLM Deployment via Ollama
+- Interactive UI design via Gradio
+- Python Environment Management
+- Reading and parsing JSON files
 
 ## Tech Stack
 - LLM Runtime: Ollama
